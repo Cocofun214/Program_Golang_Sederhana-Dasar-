@@ -4,10 +4,10 @@ import "fmt"
 
 type data struct {
     nama string
-	npm string
-	hoby string
-	umur string
-	grade string
+    npm string
+    hoby string
+    umur string
+    grade string
 }
 func main() {
     var dataku = data {}
